@@ -1,9 +1,9 @@
 /* This system is designed to manage the database of all SS3 Mathematics students for the school year. 
 The school year is divided into 3 school terms; 1st term, 2nd term and 3rd term. 
-In order to predict how the students will perfom in WAEC, the system is required to find the average of their scores from 1st and 2nd terms.
+To predict how the students will perform in WAEC, the system must find the average of their scores from the 1st and 2nd terms.
 This will enable arrangements to provide lessons for the students with poor grades. 
-The students fall into 3 class streams which is art, science and commercial students. 
-The system is also required to hide student's names so that teacher can't directly know which grades belong to whom or manipulate the scores
+The students fall into 3 class streams: art, science and commercial. 
+The system is also required to hide student's names so that teachers can't directly know which grades belong to whom or manipulate the scores
 */ 
 
 // Base class for general SS3 database
